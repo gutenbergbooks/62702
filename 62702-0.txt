@@ -21,7 +21,11 @@ Character set encoding: UTF-8
 
 
 
-Tim Lindell, Robert Tonsing, and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)
+Produced by Tim Lindell, Robert Tonsing, and the Online
+Distributed Proofreading Team at (<a
+href="http://www.pgdp.net"> from page images generously
+made available by The Internet Archive/American Libraries
+https://archive.org</a>)
 
 
 
@@ -8931,7 +8935,11 @@ Theodore Arthur Willard
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/6/2/7/0/62702/
 
-Tim Lindell, Robert Tonsing, and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)
+Produced by Tim Lindell, Robert Tonsing, and the Online
+Distributed Proofreading Team at (<a
+href="http://www.pgdp.net"> from page images generously
+made available by The Internet Archive/American Libraries
+https://archive.org</a>)
 
 
 Updated editions will replace the previous one--the old editions
